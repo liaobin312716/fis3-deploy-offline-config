@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liaobin312716/fis3-deploy-offline-config.git"
+    "url": "git+https://github.com/liaobin312716/fis3-packager-offline-config.git"
   },
   "keywords": [
     "generator"
@@ -16,7 +16,7 @@
   "author": "liaobin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/liaobin312716/fis3-deploy-offline-config/issues"
+    "url": "https://github.com/liaobin312716/fis3-packager-offline-config/issues"
   },
-  "homepage": "https://github.com/liaobin312716/fis3-deploy-offline-config#readme"
+  "homepage": "https://github.com/liaobin312716/fis3-packager-offline-config#readme"
 }
