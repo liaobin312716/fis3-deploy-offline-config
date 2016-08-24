@@ -1,6 +1,6 @@
 {
-  "name": "fis3-deploy-offline-config",
-  "version": "0.0.1",
+  "name": "fis3-packager-offline-config",
+  "version": "0.0.2",
   "description": "a generator",
   "main": "index.js",
   "scripts": {
