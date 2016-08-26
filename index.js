@@ -50,7 +50,6 @@ module.exports = function (ret, conf, settings, opt) {
     }
 
     var valid = patterns.every(function(pattern) {
-        console.log(pattern)
       return typeof pattern === 'string' || pattern instanceof RegExp;
     });
 

@@ -1,6 +1,10 @@
 # fis3-packager-offline-config
 自动生成离线组件配置工具
 
+##安装
+
+npm install fis3-packager-offline-config
+
 ##配置方式
 目前只支持一下调用方式：
 
