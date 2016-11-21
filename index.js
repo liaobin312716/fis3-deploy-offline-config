@@ -82,7 +82,7 @@ module.exports = function (ret, conf, settings, opt) {
   if (/\.json$/.test(output)) {
     pkg.setContent(JSON.stringify(config));
   } else {
-    pkg.setContent(jsonWrapper(JSON.stringify(config));
+    pkg.setContent(jsonWrapper(JSON.stringify(config)));
   }
   ret.pkg[output] = pkg;
   function jsonWrapper(jsonStr) {
